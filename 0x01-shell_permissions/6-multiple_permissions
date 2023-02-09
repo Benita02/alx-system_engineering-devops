@@ -1,4 +1,2 @@
 #!/bin/bash
 chmod u+x,g+x,o+r hello
-[master 14d40e6] Task 6 - corrections, correct output answer/script
- 1 file changed, 1 insertion(+), 1 deletion(-)
