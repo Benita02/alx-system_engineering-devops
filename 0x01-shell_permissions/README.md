@@ -18,3 +18,4 @@ Group: no permission at all
 Other users: all the permissions
 The file hello will be in the working directory You are not allowed to use commas for this script
  9 - So, in summary, chmod 753 hello sets the owner's permissions to read, write, and execute, the group's permissions to read and execute, and others' permissions to read and execute on
+Write a script that sets the mode of the file hello the same as olleh’s mode.
