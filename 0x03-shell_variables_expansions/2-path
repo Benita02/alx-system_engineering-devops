@@ -1,0 +1,2 @@
+#!/bit/bash
+export PATH=$PATH:/action
