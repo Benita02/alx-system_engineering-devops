@@ -1,2 +1,2 @@
-#!/bit/bash
+#!/bini/bash
 export PATH=$PATH:/action
